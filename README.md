@@ -32,3 +32,14 @@ Este projeto apresenta um **dashboard interativo de vendas** utilizando o datase
 1. Clonar o repositório
 ```bash
 git clone https://github.com/mari-ww/Olist_Sales_Analysis_Dashboard.git
+```
+
+2. Abrir o notebook dashboard_vendas.ipynb no Jupyter Notebook ou Google Colab.
+   
+4. Instalar as dependências (se necessário):
+```bash
+pip install pandas plotly matplotlib seaborn
+```
+
+## Links Úteis
+Dataset original: [Olist Brazilian E-Commerce Dataset - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?utm_source=chatgpt.com)
